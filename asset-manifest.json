@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ratan-Fandom-Quizz/static/css/main.f855e6bc.css",
+    "main.js": "/Ratan-Fandom-Quizz/static/js/main.3080561a.js",
+    "static/js/787.b54a136d.chunk.js": "/Ratan-Fandom-Quizz/static/js/787.b54a136d.chunk.js",
+    "static/media/logo.svg": "/Ratan-Fandom-Quizz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ratan-Fandom-Quizz/index.html",
+    "main.f855e6bc.css.map": "/Ratan-Fandom-Quizz/static/css/main.f855e6bc.css.map",
+    "main.3080561a.js.map": "/Ratan-Fandom-Quizz/static/js/main.3080561a.js.map",
+    "787.b54a136d.chunk.js.map": "/Ratan-Fandom-Quizz/static/js/787.b54a136d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3080561a.js"
+  ]
+}
